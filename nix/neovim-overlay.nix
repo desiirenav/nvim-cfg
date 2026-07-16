@@ -59,9 +59,6 @@ with final.pkgs.lib; let
     nvim-treesitter-textobjects # https://github.com/nvim-treesitter/nvim-treesitter-textobjects/
     nvim-ts-context-commentstring # https://github.com/joosepalviste/nvim-ts-context-commentstring/
     # ^ navigation/editing enhancement plugins
-    # Useful utilities
-    nvim-unception # Prevent nested neovim sessions | nvim-unception
-    # ^ Useful utilities
     # libraries that other plugins depend on
     sqlite-lua
     plenary-nvim
