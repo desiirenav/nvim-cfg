@@ -57,10 +57,6 @@ vim.keymap.set({ 'n', 'x', 'o' }, '[P', function()
 end, { desc = 'previous [P]arameter (end)' })
 
 
-require('treesitter-context').setup {
-  max_lines = 3,
-}
-
 require('ts_context_commentstring').setup()
 
 -- Tree-sitter based folding
