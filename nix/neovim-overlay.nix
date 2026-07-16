@@ -58,7 +58,7 @@ with final.pkgs.lib; let
     nvim-ts-context-commentstring # https://github.com/joosepalviste/nvim-ts-context-commentstring/
     # ^ navigation/editing enhancement plugins
     # libraries that other plugins depend on
-    sqlite-lua
+    # sqlite-lua
     plenary-nvim
     nvim-web-devicons
     vim-repeat
