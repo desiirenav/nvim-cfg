@@ -59,7 +59,7 @@ with final.pkgs.lib; let
     # ^ navigation/editing enhancement plugins
     # libraries that other plugins depend on
     # sqlite-lua
-    plenary-nvim
+    # plenary-nvim
     nvim-web-devicons
     vim-repeat
     # ^ libraries that other plugins depend on
