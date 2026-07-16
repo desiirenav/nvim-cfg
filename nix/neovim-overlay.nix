@@ -60,7 +60,7 @@ with final.pkgs.lib; let
     # libraries that other plugins depend on
     # sqlite-lua
     # plenary-nvim
-    nvim-web-devicons
+    # nvim-web-devicons
     vim-repeat
     # ^ libraries that other plugins depend on
     # bleeding-edge plugins from flake inputs
